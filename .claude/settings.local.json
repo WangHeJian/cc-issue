@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh issue view:*)",
+      "Bash(go test:*)",
+      "Bash(go mod:*)",
+      "Bash(go run:*)",
+      "Bash(go vet:*)",
+      "Bash(go fmt:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}
